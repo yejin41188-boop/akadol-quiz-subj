@@ -1,0 +1,25 @@
+{
+  "name": "아카돌 주관식 — 이상윤",
+  "short_name": "아카돌 주관식",
+  "description": "아카돌 연질캡슐 경진대회 대비 주관식 훈련 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0F2720",
+  "theme_color": "#1D9E75",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
